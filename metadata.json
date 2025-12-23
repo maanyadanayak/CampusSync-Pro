@@ -1,0 +1,7 @@
+{
+  "name": "CampusSync Pro",
+  "description": "Smart Campus Productivity & Career Growth Platform. Centralizes schedules, detects free slots, and uses Gemini AI to suggest productive career-focused actions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
